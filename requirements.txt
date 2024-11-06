@@ -1,0 +1,7 @@
+flask
+whisper
+sounddevice
+numpy
+transformers
+TTS
+playsound
